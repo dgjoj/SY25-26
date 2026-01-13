@@ -19,3 +19,8 @@ print(lineup)
 print("1. View Lineup & Total Time")
 print("2. Add a new band")
 print("3. Move first band to end(late arrival)")
+print("4. Remove a band by name")
+print("5. Move band to Specific Position.")
+print("6. Exit")
+choice = int(input("Choose an option (1-6): "))
+
